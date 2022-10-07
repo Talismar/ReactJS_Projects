@@ -9,3 +9,8 @@
 <p align="center">
   <img src="./Sliders/img/slider_01.png"  alt="SPA - ReactJS" style="display: flex;" width="600px">
 </p>
+
+## Modal
+<p align="center">
+  <img src="./Modal/media/GIFAplication.gif"  alt="SPA - ReactJS" style="display: flex;" width="600px">
+</p>
